@@ -1,5 +1,4 @@
-# Hello, Welcome to my world
-# I'm Moses 👋
+# Hello, I'm Moses 👋
 
 💻 Software Developer | Mobile App Developer | DevOps (Junior)  
 🇰🇪 Kenya  
