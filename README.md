@@ -1,75 +1,187 @@
 <div align="center">
 
-# Moses Mbugua
+# 👨‍💻 Moses Mbugua
 
-**Full-Stack Engineer · Mobile Architect · Infrastructure Specialist**
+**Full-Stack Engineer · Mobile Architect · DevOps Specialist**
 
-Building production systems that matter — from pixel-perfect interfaces to scalable backends
-
-[📬 mbuguam323@gmail.com](mailto:mbuguam323@gmail.com) · 🇰🇪 Nairobi, Kenya
-
----
+🇰🇪 Nairobi, Kenya · [mbuguam323@gmail.com](mailto:mbuguam323@gmail.com)
 
 </div>
 
-## About
+---
 
-I craft digital experiences across the entire stack — from Flutter interfaces that users love to Laravel backends that scale. My work bridges design and infrastructure, creating systems that are both beautiful and bulletproof.
+## 🚀 Tech Arsenal
 
-Currently architecting modern POS solutions and payment integrations that handle real-world complexity with elegant simplicity.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+```
+├─ Laravel & PHP
+├─ REST APIs
+├─ M-Pesa Integration
+└─ Payment Gateways
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Mobile
+```
+├─ Flutter
+├─ Kotlin
+├─ Cross-Platform
+└─ Native Performance
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Frontend
+```
+├─ Blade Templates
+├─ HTML5 & CSS3
+├─ Responsive Design
+└─ Modern UI/UX
+```
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🗄️ Database
+```
+├─ MySQL
+├─ Supabase
+├─ Schema Design
+└─ Query Optimization
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🐳 DevOps
+```
+├─ Docker
+├─ CI/CD Pipelines
+├─ Linux Admin
+└─ Containerization
+```
+
+</td>
+<td width="33%" valign="top">
+
+### 🔧 Tools
+```
+├─ Git & GitHub
+├─ VS Code
+├─ Postman
+└─ Cloud Platforms
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Expertise
+## 💼 What I'm Building
 
-### **Backend Engineering**
-Specialized in building robust server-side architectures with Laravel and PHP. Expert in RESTful API design, third-party integrations, and payment gateway implementations including M-Pesa. Focused on creating maintainable, scalable backend systems that power real business operations.
+<table>
+<tr>
+<td width="50%">
 
-### **Mobile Development**
-Building native and cross-platform mobile experiences with Flutter and Kotlin. From rapid prototyping to production apps, I create interfaces that feel intuitive and performant across devices.
+### 🏪 **Enterprise POS System**
+> Full-stack point-of-sale platform
+- Real-time inventory tracking
+- Multi-location support
+- Integrated payments
+- Laravel + Modern frontend
 
-### **Frontend Craft**
-Working with modern web technologies including Blade templating, HTML5, and CSS3 to create responsive, accessible interfaces. Emphasis on clean markup and efficient styling that enhances user experience.
+</td>
+<td width="50%">
 
-### **Database Design**
-Architecting data layers with MySQL and Supabase. Skilled in schema design, query optimization, and ensuring data integrity at scale.
+### 💳 **Payment Solutions**
+> Seamless checkout experiences
+- M-Pesa integration
+- Transaction workflows
+- Webhook handling
+- Reconciliation logic
 
-### **DevOps & Infrastructure**
-Implementing containerization with Docker, establishing CI/CD pipelines, and managing Linux-based production environments. Bringing development and operations together for faster, more reliable deployments.
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📲 **Mobile Applications**
+> Cross-platform Flutter apps
+- Native performance
+- Offline-first architecture
+- Smooth animations
+- Delightful UX
+
+</td>
+<td width="50%">
+
+### 🛠️ **Infrastructure**
+> Production-ready systems
+- Docker containerization
+- Automated deployments
+- Scalable architecture
+- Linux environments
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Projects
+## 📊 Development Focus
 
-**Enterprise POS System**  
-Full-stack point-of-sale platform featuring real-time inventory management, multi-location support, and integrated payment processing. Built with Laravel backend, modern frontend, and containerized deployment.
-
-**Mobile Payment Integration**  
-Seamless checkout experiences with M-Pesa and other payment gateways. Handling transaction workflows, webhooks, and reconciliation logic that businesses depend on.
-
-**Cross-Platform Mobile Apps**  
-Flutter-based applications delivering native performance with shared codebases. Focus on smooth animations, offline-first architecture, and delightful user interactions.
+```mermaid
+graph LR
+    A[💡 Idea] --> B[🎨 Design]
+    B --> C[⚡ Build]
+    C --> D[🧪 Test]
+    D --> E[🚀 Deploy]
+    E --> F[📈 Scale]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+    style F fill:#dfe6e9
+```
 
 ---
 
-## Philosophy
+## 🎯 Expertise Areas
 
-I believe in **pragmatic craftsmanship** — choosing the right tool for each challenge, writing code that others can maintain, and building systems that solve real problems. Clean architecture, thoughtful UX, and reliable infrastructure aren't luxuries; they're essentials.
-
-Every project is an opportunity to learn, iterate, and create something better than before.
-
----
-
-## Let's Build Together
-
-Whether you're looking to collaborate on an open-source project, discuss architecture patterns, or explore opportunities, I'm always interested in connecting with fellow engineers and creators.
-
-**Get in touch:** [mbuguam323@gmail.com](mailto:mbuguam323@gmail.com)
+| Area | Technologies | Experience |
+|------|-------------|------------|
+| **Backend** | Laravel, PHP, REST APIs | ████████░░ 80% |
+| **Mobile** | Flutter, Kotlin | ███████░░░ 70% |
+| **Frontend** | HTML, CSS, Blade | ███████░░░ 70% |
+| **Database** | MySQL, Supabase | ████████░░ 80% |
+| **DevOps** | Docker, CI/CD, Linux | ██████░░░░ 60% |
 
 ---
 
 <div align="center">
 
-*Shipping quality code from Nairobi* 🚀
+### 💬 Let's Connect
+
+Building something interesting? Let's talk.
+
+**📧 mbuguam323@gmail.com**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=mosesmbugua&color=blueviolet&style=flat-square)
+
+*Crafting digital experiences from Nairobi* 🚀
 
 </div>
