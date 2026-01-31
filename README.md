@@ -78,7 +78,7 @@
 ├─ Git & GitHub
 ├─ VS Code
 ├─ Postman
-└─ Cloud Platforms
+└─ Cloud Platforms 
 ```
 
 </td>
@@ -165,7 +165,7 @@ graph LR
 | **Backend** | Laravel, PHP, REST APIs | ██████████░░ 90% |
 | **Mobile** | Flutter, Kotlin | █████████░░░ 80% |
 | **Frontend** | HTML, CSS, Blade | █████████░░░ 90% |
-| **Database** | MySQL, Supabase | ██████████░░ 90% |
+| **Database** | MySQL, Supabase | ███████████░░ 90% |
 | **DevOps** | Docker, CI/CD, Linux | ██████░░░░ 60% |
 
 ---
