@@ -162,10 +162,10 @@ graph LR
 
 | Area | Technologies | Experience |
 |------|-------------|------------|
-| **Backend** | Laravel, PHP, REST APIs | ████████░░ 80% |
-| **Mobile** | Flutter, Kotlin | ███████░░░ 70% |
-| **Frontend** | HTML, CSS, Blade | ███████░░░ 70% |
-| **Database** | MySQL, Supabase | ████████░░ 80% |
+| **Backend** | Laravel, PHP, REST APIs | ██████████░░ 90% |
+| **Mobile** | Flutter, Kotlin | █████████░░░ 80% |
+| **Frontend** | HTML, CSS, Blade | █████████░░░ 90% |
+| **Database** | MySQL, Supabase | ██████████░░ 90% |
 | **DevOps** | Docker, CI/CD, Linux | ██████░░░░ 60% |
 
 ---
@@ -180,7 +180,7 @@ Building something interesting? Let's talk.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=mosesmbugua&color=blueviolet&style=flat-square)
+![Profile Views](https://moses-mbugs.github.io/Website/)
 
 *Crafting digital experiences from Nairobi* 🚀
 
